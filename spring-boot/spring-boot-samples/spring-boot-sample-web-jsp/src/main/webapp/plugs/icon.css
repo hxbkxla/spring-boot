@@ -1,0 +1,138 @@
+.icon-blank{
+	background:url('icons/blank.gif') no-repeat center center;
+}
+.icon-add{
+	background:url('icons/edit_add.png') no-repeat center center;
+}
+.icon-edit{
+	background:url('icons/pencil.png') no-repeat center center;
+}
+.icon-remove{
+	background:url('icons/edit_remove.png') no-repeat center center;
+}
+.icon-save{
+	background:url('icons/filesave.png') no-repeat center center;
+}
+.icon-cut{
+	background:url('icons/cut.png') no-repeat center center;
+}
+.icon-ok{
+	background:url('icons/ok.png') no-repeat center center;
+}
+.icon-no{
+	background:url('icons/no.png') no-repeat center center;
+}
+.icon-cancel{
+	background:url('icons/cancel.png') no-repeat center center;
+}
+.icon-reload{
+	background:url('icons/reload.png') no-repeat center center;
+}
+.icon-search{
+	background:url('icons/search.png') no-repeat center center;
+}
+.icon-print{
+	background:url('icons/print.png') no-repeat center center;
+}
+.icon-help{
+	background:url('icons/help.png') no-repeat center center;
+}
+.icon-undo{
+	background:url('icons/undo.png') no-repeat center center;
+}
+.icon-redo{
+	background:url('icons/redo.png') no-repeat center center;
+}
+.icon-back{
+	background:url('icons/back.png') no-repeat center center;
+}
+.icon-sum{
+	background:url('icons/sum.png') no-repeat center center;
+}
+.icon-tip{
+	background:url('icons/tip.png') no-repeat center center;
+}
+
+.icon-mini-add{
+	background:url('icons/mini_add.png') no-repeat center center;
+}
+.icon-mini-edit{
+	background:url('icons/mini_edit.png') no-repeat center center;
+}
+.icon-mini-refresh{
+	background:url('icons/mini_refresh.png') no-repeat center center;
+}
+
+.icon-info-edit{
+	background:url('icons/info_edit.png') no-repeat center center;
+}
+.icon-flow-edit{
+	background:url('icons/flow_edit.png') no-repeat center center;
+}
+.icon-download{
+	background:url('icons/download.png') no-repeat center center;
+}
+
+
+/***/
+.icon-treeImg1{background:url('../../../system/images/icon/1.png') no-repeat center center !important;}
+.icon-treeImg2{background:url('../../../system/images/icon/2.png') no-repeat center center !important;}
+.icon-treeImg3{background:url('../../../system/images/icon/3.png') no-repeat center center !important;}
+.icon-treeImg4{background:url('../../../system/images/icon/4.png') no-repeat center center !important;}
+.icon-treeImg5{background:url('../../../system/images/icon/5.png') no-repeat center center !important;}
+.icon-treeImg6{background:url('../../../system/images/icon/6.png') no-repeat center center !important;}
+.icon-treeImg7{background:url('../../../system/images/icon/7.png') no-repeat center center !important;}
+.icon-treeImg8{background:url('../../../system/images/icon/8.png') no-repeat center center !important;}
+.icon-treeImg9{background:url('../../../system/images/icon/9.png') no-repeat center center !important;}
+.icon-treeImg10{background:url('../../../system/images/icon/10.png') no-repeat center center !important;}
+.icon-treeImg11{background:url('../../../system/images/icon/11.png') no-repeat center center !important;}
+.icon-treeImg12{background:url('../../../system/images/icon/12.png') no-repeat center center !important;}
+.icon-treeImg13{background:url('../../../system/images/icon/13.png') no-repeat center center !important;}
+.icon-treeImg14{background:url('../../../system/images/icon/14.png') no-repeat center center !important;}
+.icon-treeImg15{background:url('../../../system/images/icon/15.png') no-repeat center center !important;}
+.icon-treeImg16{background:url('../../../system/images/icon/16.png') no-repeat center center !important;}
+.icon-treeImg17{background:url('../../../system/images/icon/17.png') no-repeat center center !important;}
+.icon-treeImg18{background:url('../../../system/images/icon/18.png') no-repeat center center !important;}
+.icon-treeImg19{background:url('../../../system/images/icon/19.png') no-repeat center center !important;}
+.icon-treeImg20{background:url('../../../system/images/icon/20.png') no-repeat center center !important;}
+.icon-treeImg21{background:url('../../../system/images/icon/21.png') no-repeat center center !important;}
+.icon-treeImg22{background:url('../../../system/images/icon/22.png') no-repeat center center !important;}
+.icon-treeImg23{background:url('../../../system/images/icon/23.png') no-repeat center center !important;}
+.icon-treeImg24{background:url('../../../system/images/icon/24.png') no-repeat center center !important;}
+.icon-treeImg25{background:url('../../../system/images/icon/25.png') no-repeat center center !important;}
+.icon-treeImg26{background:url('../../../system/images/icon/26.png') no-repeat center center !important;}
+.icon-treeImg27{background:url('../../../system/images/icon/27.png') no-repeat center center !important;}
+.icon-treeImg28{background:url('../../../system/images/icon/28.png') no-repeat center center !important;}
+.icon-treeImg29{background:url('../../../system/images/icon/29.png') no-repeat center center !important;}
+.icon-treeImg30{background:url('../../../system/images/icon/30.png') no-repeat center center !important;}
+.icon-treeImg31{background:url('../../../system/images/icon/31.png') no-repeat center center !important;}
+.icon-treeImg32{background:url('../../../system/images/icon/32.png') no-repeat center center !important;}
+.icon-treeImg33{background:url('../../../system/images/icon/33.png') no-repeat center center !important;}
+.icon-treeImg34{background:url('../../../system/images/icon/34.png') no-repeat center center !important;}
+.icon-treeImg35{background:url('../../../system/images/icon/35.png') no-repeat center center !important;}
+.icon-treeImg36{background:url('../../../system/images/icon/36.png') no-repeat center center !important;}
+.icon-treeImg37{background:url('../../../system/images/icon/37.png') no-repeat center center !important;}
+.icon-treeImg38{background:url('../../../system/images/icon/38.png') no-repeat center center !important;}
+.icon-treeImg39{background:url('../../../system/images/icon/39.png') no-repeat center center !important;}
+.icon-treeImg40{background:url('../../../system/images/icon/40.png') no-repeat center center !important;}
+.icon-treeImg41{background:url('../../../system/images/icon/41.png') no-repeat center center !important;}
+.icon-treeImg42{background:url('../../../system/images/icon/42.png') no-repeat center center !important;}
+.icon-treeImg43{background:url('../../../system/images/icon/43.png') no-repeat center center !important;}
+.icon-treeImg44{background:url('../../../system/images/icon/44.png') no-repeat center center !important;}
+.icon-treeImg45{background:url('../../../system/images/icon/45.png') no-repeat center center !important;}
+.icon-treeImg46{background:url('../../../system/images/icon/46.png') no-repeat center center !important;}
+.icon-treeImg47{background:url('../../../system/images/icon/47.png') no-repeat center center !important;}
+.icon-treeImg48{background:url('../../../system/images/icon/48.png') no-repeat center center !important;}
+.icon-treeImg49{background:url('../../../system/images/icon/49.png') no-repeat center center !important;}
+.icon-treeImg50{background:url('../../../system/images/icon/50.png') no-repeat center center !important;}
+.icon-treeImg51{background:url('../../../system/images/icon/51.png') no-repeat center center !important;}
+.icon-treeImg52{background:url('../../../system/images/icon/52.png') no-repeat center center !important;}
+.icon-treeImg53{background:url('../../../system/images/icon/53.png') no-repeat center center !important;}
+.icon-treeImg54{background:url('../../../system/images/icon/54.png') no-repeat center center !important;}
+.icon-treeImg55{background:url('../../../system/images/icon/55.png') no-repeat center center !important;}
+.icon-treeImg56{background:url('../../../system/images/icon/56.png') no-repeat center center !important;}
+.icon-treeImg57{background:url('../../../system/images/icon/57.png') no-repeat center center !important;}
+.icon-treeImg58{background:url('../../../system/images/icon/58.png') no-repeat center center !important;}
+.icon-treeImg59{background:url('../../../system/images/icon/59.png') no-repeat center center !important;}
+
+
