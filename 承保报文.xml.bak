@@ -34,7 +34,7 @@
 		<FundJudge>N</FundJudge>
 		<SpecContent></SpecContent>
 		<PrintDate>2017-03-02</PrintDate>
-		<AppntName>╡Бйтр╩</AppntName>
+		<AppntName>Ф╣▀Х╞∙Д╦─</AppntName>
 		<Sex>0</Sex>
 		<Birthday>1963-03-02</Birthday>
 		<NativePlace>CHN</NativePlace>
@@ -47,14 +47,14 @@
 		<Province>440000</Province>
 		<City>440100</City>
 		<County>440101</County>
-		<PostalAddress>╧Ц╤╚й║╧Цжщйп</PostalAddress>
+		<PostalAddress>Е╧©Д╦°Г°│Е╧©Е╥·Е╦┌</PostalAddress>
 		<ZipCode>111111</ZipCode>
 		<Phone>18565758681</Phone>
 		<Mobile>18565758681</Mobile>
 		<EMail>756347303@qq.com</EMail>
 		<BankCode>01</BankCode>
 		<BankAccNo>325235346456457</BankAccNo>
-		<BankAccName>╡Бйтр╩</BankAccName>
+		<BankAccName>Ф╣▀Х╞∙Д╦─</BankAccName>
 		<LaagentInfoS>
 			<LaagentInfoCount>0</LaagentInfoCount>
 			<LaagentInfo>
@@ -75,7 +75,7 @@
 		<LcinsuredS>
 			<LcinsuredCount>3</LcinsuredCount>
 			<Lcinsured>
-				<Name>╡Бйтр╩</Name>
+				<Name>Ф╣▀Х╞∙Д╦─</Name>
 				<IDType>0</IDType>
 				<IDNo>110101196303020098</IDNo>
 				<Sex>0</Sex>
@@ -91,7 +91,7 @@
 				<RelaToMainInsu>1</RelaToMainInsu>
 				<Prem>6382.5</Prem>
 				<ContPlanCode>1</ContPlanCode>
-				<ContPlanName>пеЁо║╨пе╦ёнчсг║╩мелЕжуиМжь╢С╪╡╡║╠ёоуA©Н</ContPlanName>
+				<ContPlanName>Д©║Х╞ Ц─▌Д©║Г╕▐Ф≈═Е©╖Ц─▐Е⌡╒Д╫⌠Г╩┬Х╨╚И┤█Е╓╖Г√╬Г≈┘Д©²И≥╘AФ╛╬</ContPlanName>
 				<Mult>1</Mult>
 				<amnt>50000</amnt>
 				<RiskCode>802</RiskCode>
@@ -99,7 +99,7 @@
 				<PayYear>5</PayYear>
 			</Lcinsured>
 			<Lcinsured>
-				<Name>еДе╪</Name>
+				<Name>И┘█Е│╤</Name>
 				<IDType>0</IDType>
 				<IDNo>110101196203020066</IDNo>
 				<Sex>1</Sex>
@@ -115,7 +115,7 @@
 				<RelaToMainInsu>2</RelaToMainInsu>
 				<Prem>5750.0</Prem>
 				<ContPlanCode>1</ContPlanCode>
-				<ContPlanName>пеЁо║╨пе╦ёнчсг║╩мелЕжуиМжь╢С╪╡╡║╠ёоуA©Н</ContPlanName>
+				<ContPlanName>Д©║Х╞ Ц─▌Д©║Г╕▐Ф≈═Е©╖Ц─▐Е⌡╒Д╫⌠Г╩┬Х╨╚И┤█Е╓╖Г√╬Г≈┘Д©²И≥╘AФ╛╬</ContPlanName>
 				<Mult>1</Mult>
 				<amnt>50000</amnt>
 				<RiskCode>802</RiskCode>
@@ -123,7 +123,7 @@
 				<PayYear>5</PayYear>
 			</Lcinsured>
 			<Lcinsured>
-				<Name>все╝</Name>
+				<Name>Е╜░Е╔Ё</Name>
 				<IDType>0</IDType>
 				<IDNo>110101199403030086</IDNo>
 				<Sex>1</Sex>
@@ -139,9 +139,9 @@
 				<RelaToMainInsu>3</RelaToMainInsu>
 				<Prem>2173.5</Prem>
 				<ContPlanCode>1</ContPlanCode>
-				<ContPlanName>пеЁо║╨пе╦ёнчсг║╩мелЕжуиМжь╢С╪╡╡║╠ёоуA©Н</ContPlanName>
+				<ContPlanName>Д©║Х╞ Ц─▌Д©║Г╕▐Ф≈═Е©╖Ц─▐Е⌡╒Д╫⌠Г╩┬Х╨╚И┤█Е╓╖Г√╬Г≈┘Д©²И≥╘AФ╛╬</ContPlanName>
 				<Mult>1</Mult>
-				<amnt>50000</amnt>
+				<Amnt>50000</Amnt>
 				<RiskCode>802</RiskCode>
 				<RiskType>0</RiskType>
 				<PayYear>5</PayYear>
@@ -156,7 +156,7 @@
 				<ManageCom></ManageCom>
 				<PayDate>2017-03-02</PayDate>
 				<TempFeeType>1</TempFeeType>
-				<AppntName>╡Бйтр╩</AppntName>
+				<AppntName>Ф╣▀Х╞∙Д╦─</AppntName>
 				<PayMoney>14306.0</PayMoney>
 				<PayMode>6</PayMode>
 				<BankCode>54</BankCode>
